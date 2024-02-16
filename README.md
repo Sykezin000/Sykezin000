@@ -12,6 +12,41 @@ Me chamo Thiago Santos, sou um Programador Front-end, atualmente estudando e faz
 <br>
 <br>
 
+
+
+### Connect with me:
+
+<p>
+<a href="https://www.instagram.com/thi_sykes2304/">
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="www.linkedin.com/in/thiago-santos-alves-da-silva/">
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</p>
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Thiago Stats](https://github-readme-stats.vercel.app/api?username=Sykezin000)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
