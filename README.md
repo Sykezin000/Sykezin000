@@ -10,11 +10,7 @@ Me chamo Thiago Santos, sou um Programador Front-end, atualmente estudando e faz
 - <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo"/>
 
 <br>
-<br>
-
-
-
-### Connect with me:
+### Minhas Redes Sociais:
 
 <p>
 <a href="https://www.instagram.com/thi_sykes2304/">
