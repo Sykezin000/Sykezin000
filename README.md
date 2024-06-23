@@ -1,11 +1,11 @@
 ### Hi there  :star::computer::books:
 
-💻 Desenvolvedor de software com sólida experiência em desenvolvimento web e mobile. Apaixonado por tecnologia, sempre busco aprender novas ferramentas e aprimorar minhas habilidades em linguagens como JavaScript, CSS e HTML. Atualmente, trabalho como Freelancer. No meu tempo livre, adoro explorar áreas como :Back-end,APiS e Desenvolvimento Mobile. Vamos colaborar e criar algo incrível juntos!
+💻 Desenvolvedor de software com sólida experiência em desenvolvimento web e mobile. Apaixonado por tecnologia, sempre busco aprender novas ferramentas e aprimorar minhas habilidades em linguagens como JavaScript, CSS e HTML. Atualmente, trabalho como Freelancer. No meu tempo livre, adoro explorar áreas como Desenvolvimento de Jogos e Dev Mobile. Vamos colaborar e criar algo incrível juntos!
 
 *Principais Tecnôlogias:
 <br>
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript-logo"/>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo"/>
