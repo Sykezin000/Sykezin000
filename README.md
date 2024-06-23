@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor de software com sólida experiência em desenvolvimento web e mobile. Apaixonado por tecnologia, sempre busco aprender novas ferramentas e aprimorar minhas habilidades em linguagens como JavaScript, CSS e HTML. Atualmente, trabalho como Freelancer. No meu tempo livre, adoro explorar áreas como :Back-end,APiS e Desenvolvimento Mobile. Vamos colaborar e criar algo incrível juntos!
 
-##Principais Tecnôlogias:
+*Principais Tecnôlogias:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo"/>
 
 <br>
-### Contato Profissional:
+*Contato Profissional:
 
 🌐 https://www.instagram.com/thi_sykes2304
 <br>
