@@ -1,6 +1,6 @@
 *** Olá Devs  :star::computer::books:
 
-💻 Desenvolvedor de software com sólida experiência em desenvolvimento web e mobile. Apaixonado por tecnologia, sempre busco aprender novas ferramentas e aprimorar minhas habilidades em linguagens como JavaScript, CSS e HTML. Atualmente, trabalho como Freelancer. No meu tempo livre, adoro explorar áreas como Desenvolvimento de Jogos e Dev Mobile. Vamos colaborar e criar algo incrível juntos!
+💻 Sou um Desenvolvedor de software com sólida experiência em desenvolvimento web e mobile. Apaixonado por tecnologia, sempre busco aprender novas ferramentas e aprimorar minhas habilidades em linguagens como JavaScript, CSS e HTML. Atualmente, trabalho como Freelancer. No meu tempo livre, adoro explorar áreas como Desenvolvimento de Jogos e Dev Mobile. Vamos colaborar e criar algo incrível juntos!
 
 *Principais Tecnôlogias:
 <br>
