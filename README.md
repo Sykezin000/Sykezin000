@@ -2,10 +2,6 @@
 
 💻 Desenvolvedor de software com sólida experiência em desenvolvimento web e mobile. Apaixonado por tecnologia, sempre busco aprender novas ferramentas e aprimorar minhas habilidades em linguagens como JavaScript, CSS e HTML. Atualmente, trabalho como Freelancer. No meu tempo livre, adoro explorar áreas como :Back-end,APiS e Desenvolvimento Mobile. Vamos colaborar e criar algo incrível juntos!
 
-🌐 ["https://www.instagram.com/thi_sykes2304/"]
-💼 [www.linkedin.com/in/thiago-santos-alves-da-silva]
-📫 [thiago08439@gmail.com]
-
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
@@ -18,7 +14,9 @@
 ### Minhas Redes Sociais:
 
 🌐 https://www.instagram.com/thi_sykes2304
+<br>
 💼 www.linkedin.com/in/thiago-santos-alves-da-silva
+<br>
 📫 thiago08439@gmail.com
 
 
